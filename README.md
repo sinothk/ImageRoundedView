@@ -1,0 +1,2 @@
+# ImageRoundedView
+ImageRoundedView
