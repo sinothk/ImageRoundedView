@@ -15,8 +15,9 @@ ImageRoundedView
 ## Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.sinothk:ImageRoundedView:Tag'
+	        implementation 'com.github.sinothk:ImageRoundedView:1.0.1221'
 	}
+
 
 # 使用
 
