@@ -131,3 +131,5 @@ ImageRoundedView
 
           </LinearLayout>
       </ScrollView>
+      
+  []{https://github.com/sinothk/ImageRoundedView/blob/master/app/imgs/img20181221181048.png}
