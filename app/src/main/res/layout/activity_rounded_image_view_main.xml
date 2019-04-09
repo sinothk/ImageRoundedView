@@ -57,6 +57,7 @@
             app:riv_corner_radius_top_right="20dp"
             app:riv_mutate_background="false"
             app:riv_oval="false" />
+
         <com.sinothk.view.image.rounded.RoundedImageView
             android:id="@+id/imageView4"
             android:layout_width="200dp"
