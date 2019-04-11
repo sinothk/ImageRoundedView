@@ -17,8 +17,8 @@
 
         <com.sinothk.view.image.rounded.RoundedImageView
             android:id="@+id/imageView1"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
+            android:layout_width="@dimen/dp_50"
+            android:layout_height="@dimen/dp_50"
             android:layout_marginTop="10dp"
             android:scaleType="centerCrop"
             android:src="@drawable/precrop"
